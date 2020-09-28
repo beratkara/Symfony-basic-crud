@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7685f75-2bcd-4223-a097-11883e3f171f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rehber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,12 +104,15 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1htzSh23rUT34I4GL3ecl3VqBQj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -198,12 +196,27 @@
       <workItem from="1600851204893" duration="1471000" />
       <workItem from="1600855387611" duration="14556000" />
       <workItem from="1600876474279" duration="3000" />
-      <workItem from="1601295914067" duration="51000" />
+      <workItem from="1601295914067" duration="300000" />
+      <workItem from="1601296256320" duration="73000" />
+      <workItem from="1601296338865" duration="545000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1601296059634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601296059634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="666" y="216" width="824" height="691" key="#CLI_Interpreters" timestamp="1600849087396">
@@ -222,10 +235,10 @@
       <screen x="72" y="29" width="1848" height="1051" />
     </state>
     <state x="72" y="29" width="757" height="1051" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.29.1848.1051@72.29.1848.1051" timestamp="1600847710937" />
-    <state x="460" y="110" width="1062" height="893" key="CommitChangelistDialog2" timestamp="1601295960242">
+    <state x="460" y="110" width="1062" height="893" key="CommitChangelistDialog2" timestamp="1601296059530">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="460" y="110" width="1062" height="893" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1601295960242" />
+    <state x="460" y="110" width="1062" height="893" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1601296059530" />
     <state x="729" y="469" width="523" height="178" key="ComposerInitDialogKey" timestamp="1600846089268">
       <screen x="72" y="29" width="1848" height="1051" />
     </state>
@@ -266,6 +279,10 @@
       <screen x="72" y="29" width="1848" height="1051" />
     </state>
     <state x="485" y="189" width="1022" height="737" key="SettingsEditor/72.29.1848.1051@72.29.1848.1051" timestamp="1600849001525" />
+    <state x="591" y="275" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1601296473888">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="275" width="800" height="563" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1601296473888" />
     <state x="890" y="415" width="201" height="286" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1600847034542">
       <screen x="72" y="29" width="1848" height="1051" />
     </state>
